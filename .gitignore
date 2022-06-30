@@ -13,3 +13,4 @@ pretrained_models/*
 
 # Demucs
 demucs/*
+.vscode/launch.json
